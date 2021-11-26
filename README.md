@@ -1,2 +1,2 @@
-# radyno rm -rf
+# adynorm
 Named entities normalization and standardization algorithm
